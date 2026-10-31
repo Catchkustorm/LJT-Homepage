@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junteng Liu"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -46,7 +46,7 @@ My research interests include:
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** — Co-author. Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. NeurIPS 2023.
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** — Co-author. Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. NeurIPS 2023.
 
-The full publication list with details is also available on the [Publications](/publications/) page.
+The full publication list with details is also available on the [Publications]({{ site.baseurl }}/publications/) page.
 
 ## Contact
 
